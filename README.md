@@ -1,4 +1,4 @@
-# Merhaba, Ben [MUhammet Eren Özan]! 👋
+# Merhaba, Ben Muhammet Eren Özan 
 
  **Düzce Üniversitesi**'nde Bilgisayar Mühendisliği öğrencisiyim. Yazılım dünyasına büyük bir merak duyuyor, mühendislik temellerimi sağlamlaştırırken bir yandan da modern teknolojilerle kendimi geliştiriyorum.
 
